@@ -1,0 +1,18 @@
+
+bugs corrigés:
+
+bugs notifiés:
+
+Tache faite :
+
+
+Tâches à faire:
+	- afficher le score à la fin du niveau
+	- afficher en combien de temps il a fait le niveau
+	- amélioration graphisme pour chaque monde 
+
+
+problèmes de capcité:
+
+    - plus de 3 caisses l'algorithme prend du temps à faire
+    - éviter maps trop grandes (privilégié du 11 x 7 ; 11 max et pour le 7 peut faire entre 7 et 11)
